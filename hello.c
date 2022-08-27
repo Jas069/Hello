@@ -12,6 +12,8 @@
 
     printf("My name is Jonathan i think?\n");
     printf("Computer Engineering\n");
+    printf("My name is Jose Lopez!\n");
+    printf("My major is Electrical Engineeringls\n");
 
   return 0;
 }
